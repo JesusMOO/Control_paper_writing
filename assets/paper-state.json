@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "brief": {
+    "object": null,
+    "scenario": null,
+    "problem": null,
+    "method": null,
+    "language": null,
+    "innovation_focus": null,
+    "narrative_mode": null
+  },
+  "journal": {
+    "name": null,
+    "official_url": null,
+    "checked_at": null,
+    "verified": false
+  },
+  "requirements": {
+    "min_references": 40,
+    "self_citations": [6, 7],
+    "min_proved_properties": 1
+  },
+  "requirement_overrides": [],
+  "required_authors": [],
+  "manuscript": {
+    "body_file": null,
+    "body_sha256": null,
+    "abstract_sentences": [],
+    "conclusion_paragraphs": [],
+    "chapters": [
+      {"number": 1, "status": "planned", "artifacts": [], "pages": null},
+      {"number": 2, "status": "planned", "artifacts": [], "pages": null},
+      {"number": 3, "status": "planned", "artifacts": [], "pages": null},
+      {"number": 4, "status": "planned", "artifacts": [], "pages": null},
+      {"number": 5, "status": "planned", "artifacts": [], "pages": null},
+      {"number": 6, "status": "planned", "artifacts": [], "pages": null}
+    ],
+    "reference_pages": null,
+    "format_verified": false
+  },
+  "checks": {
+    "chapter_overviews": null,
+    "model_scenario_consistency": null,
+    "method_implementation_mapping": null,
+    "flowchart_and_equations": null,
+    "fair_comparison": null,
+    "tense_review": null,
+    "cross_references": null
+  },
+  "sources": [],
+  "evidence": [],
+  "claims": [],
+  "results": [],
+  "open_issues": [],
+  "decisions": []
+}

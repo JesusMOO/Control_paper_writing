@@ -1,0 +1,4 @@
+interface:
+  display_name: "Control Paper Writing"
+  short_description: "由使用者选择场景论或方法论，优先评估方法创新，核对理论、实现、实验与文献"
+  default_prompt: "使用 $control-paper-writing，先询问我选择场景论还是方法论，优先核查方法创新的依据，按选定方式推进泛控制类文章并核对引用与研究证据。"
