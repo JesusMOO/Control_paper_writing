@@ -1,6 +1,10 @@
 ---
 name: control-paper-writing
 description: "按使用者选择的场景论或方法论规划、撰写或修改泛控制类研究文章（control paper writing），适用于控制、自动化、系统建模与估计、优化决策、学习控制及相关交叉应用。贯通建模、理论证明、算法实现、实验与文献证据，支持整篇或指定章节写作；不用于单纯翻译排版或只要求独立审稿报告的任务。"
+license: Proprietary. See LICENSE.txt
+metadata:
+  author: "Spenta Zhou"
+  email: "spentazhou@gmail.com"
 ---
 
 # Control Paper Writing

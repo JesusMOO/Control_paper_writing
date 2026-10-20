@@ -1,0 +1,10 @@
+Proprietary License
+
+Author: Spenta Zhou
+Email: spentazhou@gmail.com
+
+This skill and its original bundled materials are proprietary. No permission is
+granted to copy, modify, redistribute, sublicense, publish, sell, or create
+derivative works without prior written permission from Spenta Zhou.
+
+Third-party materials remain subject to their respective licenses.
